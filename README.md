@@ -1,7 +1,7 @@
 # Skill_Scanner
 
 **Industry:** Education / EdTech / Career Intelligence  
-**Part of 100-Day AI App Challenge**
+**Part of AI App Challenge-Building one AI app per day using vibe-coding (prompt → prototype), focused on one industry problem at a time.**
 
 ## The Problem
 
@@ -20,9 +20,10 @@ Students spend months (or years) learning skills that are losing market value. E
 - **Plan Upgrade Recommendations** – Suggests swaps: *replace X with Y*, with a short “why”  
 - **Confidence Boost Mode** – Turns insights into an achievable next-step plan (no overwhelm)  
 
-## Why This Can’t Be Done in ChatGPT
+## Why This Requires a Purpose-Built App
 
-This app needs structured inputs (courses, goals, timelines), consistent scoring logic, and an interactive workflow that students can repeat over time. ChatGPT can give general advice, but it can’t persist a student’s learning plan, compare versions, track progress, or deliver a reliable “scan → explain → upgrade → track” experience.
+General AI tools provide guidance in isolated interactions, but learning improvement needs structure, repetition, and progress over time.
+A dedicated app can manage structured inputs, apply consistent scoring, track changes, and guide students through a repeatable scan → explain → upgrade → track workflow—turning one-off advice into a reliable learning system.
 
 ## Who This Is For
 
@@ -109,7 +110,7 @@ A clear, motivational recap of what to change in the learning path and why it ma
 
 ---
 
-**Part of my 30-Day AI App Challenge**  
+**Part of AI App Challenge**  
 Building one future-facing, industry-specific AI app every day using Google App Studio and other Ai Tools.
 
 ### Follow the journey
