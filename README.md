@@ -1,3 +1,7 @@
+# Built with Generative AI
+
+This project explores practical applications of LLM-powered systems using Google Gemini and modern TypeScript architectures.
+
 # Skill_Scanner
 
 **Industry:** Education / EdTech / Career Intelligence  
